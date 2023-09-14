@@ -1,0 +1,20 @@
+.custom-bg-pr {
+  background-color: #0000ff;
+  color: #d2dde7;
+}
+
+.custom-bg-pr:focus,
+.custom-bg-pr:hover {
+  background-color: #000080;
+}
+
+.custom-bg-sc {
+  background-color: #fff;
+  color: #212529;
+}
+
+.custom-bg-sc:focus,
+.custom-bg-sc:hover {
+  background-color: #00bfff;
+  color: #212529;
+}
